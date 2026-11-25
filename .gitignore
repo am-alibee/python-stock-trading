@@ -1,0 +1,15 @@
+pythonenv/
+.env
+.venv_linux/
+venv/
+env/
+
+.csv
+.log
+
+# Python cache
+__pycache__/
+*.py[cod] 
+*.log 
+*.csv 
+.env
